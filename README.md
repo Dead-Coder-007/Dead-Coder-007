@@ -2,7 +2,6 @@
 - 👀 I’m interested in Big Proects Only
 - 🌱 I’m currently learning ALOT !
 - 💞️ I’m looking to collaborate on OSCORP
-- 📫 Reach me at https://oscorp-education.business.site
 
 <!---
 Dead-Coder-007/Dead-Coder-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
